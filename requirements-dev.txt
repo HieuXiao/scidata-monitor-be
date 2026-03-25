@@ -1,0 +1,10 @@
+-r requirements.txt
+pytest
+pytest-asyncio
+pytest-cov
+ruff
+black
+mypy
+types-python-jose
+types-passlib
+types-redis
